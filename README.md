@@ -1,5 +1,6 @@
 # Binary-Calculator
 A binary calculator written using Java.
+
 Note 1: I changed evaluate() from int to double, as any operation that is division
       could produce a decimal, depending on the expression.
 
